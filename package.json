@@ -8,11 +8,12 @@
   },
   "scripts": {
     "dev": "lite-server",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "ava": "^0.24.0",
     "lite-server": "^2.3.0"
   }
 }
